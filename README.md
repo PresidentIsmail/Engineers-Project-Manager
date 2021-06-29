@@ -18,7 +18,10 @@ The program captures the following infomation:
   contractor for the project.
 * The name, telephone number, email address and physical address of the
   customer for the project.
-  
+ 
 #### Once the above data is captured, the program will display an invoice for the project to the user
+
+### Project data
+#### A MySQL database is made to store all project information.
  
  
