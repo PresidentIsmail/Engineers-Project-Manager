@@ -2,7 +2,7 @@
 
 **A Project Management System for an engineering firm.**
 
-The Engineers Project Manager is a comprehensive software solution that simplifies project management for engineering firms. It efficiently captures essential project details and generates invoices to streamline the workflow. 
+The Engineers Project Manager is a comprehensive software solution that simplifies project management for engineering firms. It efficiently captures essential project details and generates invoices to streamline the workflow.  
 
 ## Key Features:
 
